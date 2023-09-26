@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HiSmita
+- 👋 Hi, I’m @Smita
 - 👀 I’m interested in Incident Management and Cyber Security
 - 🌱 I’m currently learning Post Graduation in Cyber Security
 - 💞️ I’m looking to collaborate on Twitter, Google, Microsoft
